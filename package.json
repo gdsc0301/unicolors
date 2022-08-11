@@ -1,0 +1,21 @@
+{
+  "name": "unicolors",
+  "version": "1.0.0",
+  "description": "A Set of named colors in HEX, RGB, HSL and other formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "hex",
+    "rgb",
+    "hsl",
+    "js"
+  ],
+  "author": "Guilherme Carvalho",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
