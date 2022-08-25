@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["console","log","UniColors"],"sources":["src/index.js"],"sourcesContent":["import UniColors from '../../dist/index';\n\nconsole.log(UniColors);"],"mappings":";;;;;;;;;;;;;;;;;;;EAEAA,OAAO,CAACC,GAAR,CAAYC,cAAZ"}

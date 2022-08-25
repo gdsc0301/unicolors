@@ -1,0 +1,20 @@
+{
+  "name": "public-unicolors",
+  "version": "1.0.0",
+  "description": "Public folder of UniColors repo.",
+  "main": "index.html",
+  "scripts": {
+    "build": "babel src/index.js --out-file index.js",
+    "watch": "babel src/index.js --watch --out-file index.js --source-maps"
+  },
+  "author": "Guilherme Carvalho",
+  "license": "ISC",
+  "dependencies": {
+    "unicolors": "file:~/unicolors-1.0.0.tgz"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.18.10"
+  }
+}

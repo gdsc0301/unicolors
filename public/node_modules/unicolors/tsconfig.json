@@ -1,0 +1,10 @@
+{
+    "include": ["src/**/*"],
+    "compilerOptions": {
+        "module": "CommonJS",
+        "sourceMap": true,
+        "allowJs": true,
+        "declaration": true,
+        "outDir": "./dist"
+    }
+}
